@@ -52,11 +52,17 @@ El **workbook** será nuestra bitácora de viaje, en él vamos a guardar nuestra
 4. Opcionalmente puedes descargar e imprimir la carátula que diseñé para ti: [DESCARGAR CARÁTULA](https://user-images.githubusercontent.com/17634377/156294681-a7d2feb4-d41e-464f-9dbf-0fbc781aa056.png)
 5. Es importante resaltar que deben ser 5 hojas. Si llegas a llenar todas las hojas disponibles, podrás crear otro workbook. 
 
+![Ilustración_sin_título 2](https://user-images.githubusercontent.com/17634377/161416140-571a4fa3-63d0-43e6-bd9d-342d8b9b5979.png)
+
 ## ⁉️ Dudas y preguntas: GitHub Discussions  
 
 Estaremos usando **GitHub Discussions** en este repositorio para escribir las dudas y preguntas que tengan a lo largo de nuestro camino.
 
 ## Nos vemos muy pronto 🚀
+
+En verdad estoy muy emocionado por ser tu Mission Commander y compartir muchas aventuras, espero notes los detalles que he agregado, como por ejemplo las ilustraciones que he hecho completamente originales para este proyecto:
+
+ <a href="https://user-images.githubusercontent.com/17634377/161416220-9c68ef3c-8e40-41f9-8963-556d73cb06f4.png" target="_blank"><img src="https://img.shields.io/badge/🔗link-PASEDEABORDAR-green?style=for-the-badge"></a>
 
 Si llegaste hasta este punto dale Star ⭐️ a este repo.
 
