@@ -56,22 +56,7 @@ El **workbook** será nuestra bitácora de viaje, en él vamos a guardar nuestra
 
 Estaremos usando **GitHub Discussions** en este repositorio para escribir las dudas y preguntas que tengan a lo largo de nuestro camino.
 
-Si tienes alguna duda, pregunta, o quieres compartir algo realiza lo siguiente:
-1. Da click en la pestaña de **GitHub Discussions** de este repositorio.
-2. En el menú del lado izquierdo, da click en `🙏 Q&A`
-3. Da click en el botón verde que dice `New discussion`
-4. Agrega un título descriptivo 
-5. Copia y llena el siguiente formato incluyendo los datos que se solicitan, esto dará una mejor estructura a tu pregunta.
-```
-**🚀 WEEKLY MISSION**: 
-**📞 SESIÓN DE MENTORÍA**: 
+## Nos vemos muy pronto 🚀
 
-## ⭐️ Descripción <!-- Describe tu pregunta o problemas -->
+Si llegaste hasta este punto dale Star ⭐️ a este repo.
 
-## 📍 Pasos para replicar <!-- Si tienes algún error, describe aquí los pasos que realizaste para replicar tu error -->
-
-## 📸 Screenshots <!-- Incorpora imágenes o gifs de tu pregunta o problema si es que aplica --> 
-
-```
-
-6. Del lado derecho da click en `Labels` y selecciona la Weekly Mission y número de mentoría a la que corresponde tu pregunta.
