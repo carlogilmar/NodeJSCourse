@@ -64,5 +64,5 @@ En verdad estoy muy emocionado por ser tu Mission Commander y compartir muchas a
 
  <a href="https://user-images.githubusercontent.com/17634377/161416220-9c68ef3c-8e40-41f9-8963-556d73cb06f4.png" target="_blank"><img src="https://img.shields.io/badge/🔗link-PASEDEABORDAR-green?style=for-the-badge"></a>
 
-Si llegaste hasta este punto dale Star ⭐️ a este repo.
+Si llegaste hasta este punto dale Star ⭐️ a este repo y ve a la parte de Discussions de este repo.
 
