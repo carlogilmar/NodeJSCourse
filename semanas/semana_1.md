@@ -33,7 +33,7 @@
 
  Es muy importante resaltar el uso de herramientas en el desarrollo de software, para ello he diseñado una misión de onboarding sobre Git, GitHub, Markdown, y GoHugo; es una guía paso a paso donde **montarás un blog personal en donde podrás compartir tus experiencias de Launch X**. Es un complemento que te ayudará a ir comprendiendo diferentes aplicaciones de herramientas muy importantes que para este punto ya debes conocer. Da click en el siguiente link:
 
- <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/week1/semanas/onboarding_0.md"><img src="https://img.shields.io/badge/🔗link-OnboardingMission-green?style=for-the-badge"></a>
+ <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/onboarding_0.md"><img src="https://img.shields.io/badge/🔗link-OnboardingMission-green?style=for-the-badge"></a>
 
  > Recuerda que esta Onboarding Mission la retomaremos en las mentorías. 📞
 
