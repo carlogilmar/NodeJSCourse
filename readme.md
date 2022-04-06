@@ -1,11 +1,5 @@
 ### LAUNCH X 2022 🚀 Backend Node JS
 
-# Próximo Live: Lunes 4 de Abril, 8 PM 
-
-Nos vemos este lunes 4 de Abril a las 8 PM para conocernos, presentar esta misión, platicar del temario completo así como mostrar la dinámica que vamos a llevar para desarrollar el contenido de Node JS. 
-
-<img width="1156" alt="image" src="https://user-images.githubusercontent.com/17634377/161411745-162e20b8-e4ff-42ca-86bb-25ec0b15617c.png">
-
 # Calendario de Lives
 
 - 👉 SEMANA 1: Lunes 4, Miércoles 6, y Viernes 8 de Abril.
