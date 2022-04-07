@@ -17,19 +17,24 @@ Hola explorer 💖 aquí vas a poder encontrar el resumen de las notas que tenga
 
 ### Preguntas Frecuentes
 ¿Es necesario dominar git para el siguiente live?
+
 No. Es importante saber que aprender git es una gran inversión de tu tiempo. Puedes consultar mi curso de git o cualquier otro material para empezar a dominar la herramienta, no te preocupes, es un proceso que lleva tiempo y mucha práctica.
 
 ¿Para qué sirve chocolatey? 
+
 Desde la línea de comando puedes instalar programas en tu sistema operativo. Choco te ayuda a instalar de forma fácil desde la línea de comando en Windows. No es un requisito, es solo una recomendación para que busques qué herramientas te pueden ayudar y facilitar la vida.
 
 ¿Qué terminal debo usar?
+
 Si usas Windows, puedes buscar cómo aprender a usar tu terminal ya sea CMD o powershell. Incluso puedes instalar el subsistema de linux, o git bash.
 Si estás usando Unix/Linux puedes buscar zsh y fish. Recuerda que se trata de tú comodidad. Elige lo que mejor se te acomode.
 
 ¿Qué onda con GoHugo?
+
 GoHugo nos permitió crear el proyecto para el blog. No es necesario tenerlo instalado en tu computadora. Puedes ir a la documentación de GoHugo y aprender la herramienta por si misma. GoHugo es una herramienta que te permite construir sitios web estáticos (esto significa que construye por ti un proyecto de solo html, css y js) de forma muy sencilla a partir de un tema y archivos en markdown.
 
 ¿Para qué sirve el blog que hicimos?
+
 Para lo que quieras hacer. Es un instrumento de aprendizaje que nos sirvió para comenzar a usar GitHub, markdown, GitHub Actions, etc. Te recomiendo que redactes muchos posts, no importa si crees que escribir no es lo tuyo, este es tu propio lugar seguro para experimentar sin miedo al éxito.
 Es importante que tengas una forma de validar lo que vas aprendiendo. Escribe un post de algo que ya aprendiste y así te darás cuenta si lo aprendiste bien o si necesitas entender otras cosas. Tú decides compartirlo en grande o solo con algunos cuantos. Sin miedo al éxito.
 
