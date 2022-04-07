@@ -4,7 +4,7 @@ Hola explorer 💖 aquí vas a poder encontrar el resumen de las notas que tenga
 
 ![image](https://user-images.githubusercontent.com/17634377/162115390-d1758c4a-d1ca-4de1-88de-3322015df43f.png)
 
-## Live 2 Semana 1
+## Live 2 Semana 1 (Miércoles 6 de Abril)
 
 ![Ilustración_sin_título 4](https://user-images.githubusercontent.com/17634377/162116083-145da566-6298-49c7-81e3-d1f50141d251.png)
 
@@ -48,4 +48,6 @@ Por ejemplo después de hacer el primer contenido del onboarding, ¿podrías exp
 - [Gource, herramienta de visualización para repos de git](https://gource.io/)
 - [Chocolatey: herramienta para instalar programas en windows desde la terminal](https://chocolatey.org/)
 
-## Live 3 Semana 1
+## Live 3 Semana 1 (Viernes 8 de Abril)
+
+TODO
