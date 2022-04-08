@@ -9,6 +9,16 @@
 - 👉 SEMANA 5: Lunes 2, Miércoles 4, y Viernes 6 de Mayo.
 - 👉 SEMANA 6: Lunes 9, Miércoles 11, y Viernes 13 de Mayo.
 
+# Lives 🏆
+
+- [🚀 Contenido Semana 1](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_1.md)
+
+| Semana 🗓 | Live | Grabación 📽 |
+|:---:|:---:|:---:|
+| 1 | Live 1 | [Link a la repetición del live 1](https://web.microsoftstream.com/video/2de8195c-44bc-40eb-b479-daa19f3bb9da) |
+| 1 | Live 2 | [Link a la repetición del live 2](https://web.microsoftstream.com/video/9aa05932-d8c8-4871-8610-3688d17c47b4) |
+| 1 | Live 3 | Próximo Live |
+
 ![banner](https://user-images.githubusercontent.com/17634377/155241139-a345385a-7528-4aab-ae9a-9ed094d39250.png)
 
 ## Hola Explorers 👋
