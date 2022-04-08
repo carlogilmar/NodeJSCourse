@@ -27,13 +27,18 @@
 |Versión Extendida |  <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/tree/main/version_extendida" target="_blank"><img src="https://img.shields.io/badge/🔗link-VERSIONEXTENDIDA-red?style=for-the-badge"></a> |
 |Recapitulaciones| <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/recapitulaciones.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-RECAPITULACIONES-green?style=for-the-badge"></a> |
 
-![banner](https://user-images.githubusercontent.com/17634377/155241139-a345385a-7528-4aab-ae9a-9ed094d39250.png)
-
 ## IMPORTANTE 🛑
 
 Todo el contenido (texto e ilustraciones) de **Launch X Node JS** es contenido totalmente original creado por Carlo Gilmar para Launch X. Queda prohibida la reproducción y comercialización parcial o total sobre estas marcas sin el consentimiento del titular. 
 
-## Hola Explorers 👋
+![banner](https://user-images.githubusercontent.com/17634377/155241139-a345385a-7528-4aab-ae9a-9ed094d39250.png)
+
+<details>
+<summary>  DETALLES MISIÓN BACKEND NODE JS </summary>
+
+ <br>
+
+ ## Hola Explorers 👋
 
 En este repositorio encontrarás las referencias al material que estaremos desarrollando conjuntamente. Este será nuestro espacio de referencia para todo el acompañamiento.
 
@@ -81,4 +86,6 @@ En verdad estoy muy emocionado por ser tu Mission Commander y compartir muchas a
  <a href="https://user-images.githubusercontent.com/17634377/161416220-9c68ef3c-8e40-41f9-8963-556d73cb06f4.png" target="_blank"><img src="https://img.shields.io/badge/🔗link-PASEDEABORDAR-green?style=for-the-badge"></a>
 
 Si llegaste hasta este punto dale Star ⭐️ a este repo y ve a la parte de Discussions de este repo.
+
+</details>
 
