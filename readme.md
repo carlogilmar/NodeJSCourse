@@ -29,6 +29,10 @@
 
 ![banner](https://user-images.githubusercontent.com/17634377/155241139-a345385a-7528-4aab-ae9a-9ed094d39250.png)
 
+## IMPORTANTE 🛑
+
+Todo el contenido (texto e ilustraciones) de **Launch X Node JS** es contenido totalmente original creado por Carlo Gilmar para Launch X. Queda prohibida la reproducción y comercialización parcial o total sobre estas marcas sin el consentimiento del titular. 
+
 ## Hola Explorers 👋
 
 En este repositorio encontrarás las referencias al material que estaremos desarrollando conjuntamente. Este será nuestro espacio de referencia para todo el acompañamiento.
