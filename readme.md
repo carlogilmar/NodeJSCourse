@@ -19,6 +19,14 @@
 | 1 | Live 2 | [Link a la repetición del live 2](https://web.microsoftstream.com/video/9aa05932-d8c8-4871-8610-3688d17c47b4) |
 | 1 | Live 3 | Próximo Live |
 
+# Contenido
+
+| Contenido | Link |
+|:---:|:---:|
+|Contenido Semanal | <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/tree/main/semanas" target="_blank"><img src="https://img.shields.io/badge/🔗link-CONTENIDOSEMANAL-blue?style=for-the-badge"></a> |
+|Versión Extendida |  <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/tree/main/version_extendida" target="_blank"><img src="https://img.shields.io/badge/🔗link-VERSIONEXTENDIDA-red?style=for-the-badge"></a> |
+|Recapitulaciones| <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/recapitulaciones.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-RECAPITULACIONES-green?style=for-the-badge"></a> |
+
 ![banner](https://user-images.githubusercontent.com/17634377/155241139-a345385a-7528-4aab-ae9a-9ed094d39250.png)
 
 ## Hola Explorers 👋
