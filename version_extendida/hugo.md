@@ -29,6 +29,9 @@ Esto creara una carpeta con algunos archivos, estos son necesarios para el proye
 archetypes  config.toml content     data        layouts     static      themes
 ```
 
+![test](https://user-images.githubusercontent.com/17634377/162357032-47f34b9d-e261-4af4-b37e-e8e6a0b360f3.gif)
+
+
 ## 2) Añade un tema a tu proyecto creado.
 
 Para cualquier proyecto de Hugo es necesario añadir un tema, puedes ver los temas disponibles aquí: [Themes](https://themes.gohugo.io/).
@@ -42,6 +45,9 @@ git clone https://github.com/nanxiaobei/hugo-paper themes/paper
 Esto deberá descargar el tema en tu carpeta de `themes` con el nombre de `latinxperts`. Los archivos contenidos aquí son los que le darán formato a tu proyecto. Si quieres modificar el tema, es aquí donde puedes hacerlo.
 
 IMPORTANTE: Este tema es un repositorio de GitHub, por lo que si quieres hacer modificaciones y guardarlas necesitarás una copia para ti. En este caso podrías realizar un fork del tema y descargarlo directamente en el repo.
+
+![test](https://user-images.githubusercontent.com/17634377/162357100-02e325b6-95b5-4a96-b942-6b8dba52637d.gif)
+
 
 ## 3) Actualiza la configuración principal con lo que te pide el tema.
 
