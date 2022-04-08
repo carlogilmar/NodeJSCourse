@@ -197,6 +197,9 @@ The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference
 
 Nuevamente vuelve a levantar tu proyecto con `hugo serve` y deberías poder ver tu nuevo post.
 
+![test](https://user-images.githubusercontent.com/17634377/162357812-5b3c1c5c-3b38-4124-91e7-cd7a0c3d19c3.gif)
+
+
 ## 6) Construye tu website.
 
 Lo que hemos hecho hasta ahora ha sido crear un nuevo proyecto de Hugo, añadimos un tema, lo configuramos, y creamos un nuevo post, todo esto lo hemos probado en local.
@@ -207,5 +210,26 @@ La gran ayuda de Hugo es poder construir un website con todo lo anterior, para e
 hugo -D
 ```
 
-Esto creará una carpeta `public/`, esta va a contener solamente archivos de html, css y js. Esta carpeta es tu sitio construido, podrás tomarla y subirla a algún servidor o usando GitHub Pages.
+Esto creará una carpeta `public/`, esta va a contener solamente archivos de html, css y js. Esta carpeta es tu sitio construido, podrás tomarla y subirla a algún servidor o usando GitHub Pages. 
 
+Hasta ahora hemos probado nuestro proyecto con la dirección `localhost:1313`, si vas a la carpeta `public`, puedes abrir el archivo `index.html` y ver el proyecto sin ningún problema.
+
+![test](https://user-images.githubusercontent.com/17634377/162358067-afe67671-d680-478f-acca-303140362135.gif)
+
+# Recapitulación
+
+Revisa muy bien lo anterior y ten muy claro lo siguiente:
+
+- Instalación de GoHugo.
+- Cómo crear un proyecto de GoHugo.
+- Cómo agregar un tema.
+- Cómo actualizar la configuración del proyecto.
+- Cómo iniciar el servidor para ver nuestro website.
+- Cómo agregar un nuevo post y modificarlo con formato markdown.
+- Cómo construir el website.
+
+Probablemente tendrás muchas dudas y errores al momento de experimentar con esta herramienta. No te preocupes, es normal porque esta herramienta es muy extensa. 
+
+Te dejo esta referencia: [Libro GoHugo](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/)
+
+Si quieres una parte 2 de GoHugo, coméntale a tu Mission Commander. 😁
