@@ -18,7 +18,7 @@ hugo v0.92.0+extended darwin/arm64 BuildDate=unknown
 
 # Cómo crear un sitio web con Go Hugo
 
-1) Crea un nuevo `site`, para ello ejecuta el siguiente comando desde la línea de comando:
+## 1) Crea un nuevo `site`, para ello ejecuta el siguiente comando desde la línea de comando:
 
 ```
 hugo new site my_first_static_project
@@ -29,7 +29,7 @@ Esto creara una carpeta con algunos archivos, estos son necesarios para el proye
 archetypes  config.toml content     data        layouts     static      themes
 ```
 
-2) Añade un tema a tu proyecto creado.
+## 2) Añade un tema a tu proyecto creado.
 
 Para cualquier proyecto de Hugo es necesario añadir un tema, puedes ver los temas disponibles aquí: [Themes](https://themes.gohugo.io/).
 
@@ -43,7 +43,7 @@ Esto deberá descargar el tema en tu carpeta de `themes` con el nombre de `latin
 
 IMPORTANTE: Este tema es un repositorio de GitHub, por lo que si quieres hacer modificaciones y guardarlas necesitarás una copia para ti. En este caso podrías realizar un fork del tema y descargarlo directamente en el repo.
 
-3) Actualiza la configuración principal con lo que te pide el tema.
+## 3) Actualiza la configuración principal con lo que te pide el tema.
 
 Cada tema puede solicitar cierta información que irá en el archivo `config.toml`. Borra todo el contenido de ahí, y actualízalo por lo siguiente:
 
@@ -117,7 +117,7 @@ series = "series"
     disableInlineCSS = true
 ```
 
-4) Inicia el servidor de GoHugo y prueba ver tu sitio construido:
+## 4) Inicia el servidor de GoHugo y prueba ver tu sitio construido:
 
 El siguiente comando construirá el proyecto y te levantará un server local para verlo:
 
@@ -127,7 +127,7 @@ hugo serve
 
 De momento como no hemos agregado nada más que el tema, basta con que puedas ver que tu sitio tiene los estilos del tema.
 
-5) Agrega un nuevo post.
+## 5) Agrega un nuevo post.
 
 Hugo tiene un comando para agregar un nuevo post a tu proyecto, simplemente se trata de crear un archivo de markdown:
 
@@ -145,7 +145,7 @@ Donec a iaculis turpis. Nam volutpat gravida justo, tristique lobortis nibh grav
 
 Nuevamente vuelve a levantar tu proyecto con `hugo serve` y deberías poder ver tu nuevo post.
 
-6) Construye tu website.
+## 6) Construye tu website.
 
 Lo que hemos hecho hasta ahora ha sido crear un nuevo proyecto de Hugo, añadimos un tema, lo configuramos, y creamos un nuevo post, todo esto lo hemos probado en local.
 
