@@ -123,6 +123,8 @@ series = "series"
     disableInlineCSS = true
 ```
 
+![test](https://user-images.githubusercontent.com/17634377/162357213-eb7e4801-56ac-4c84-ab77-153b5cbd70a6.gif)
+
 ## 4) Inicia el servidor de GoHugo y prueba ver tu sitio construido:
 
 El siguiente comando construirá el proyecto y te levantará un server local para verlo:
@@ -132,6 +134,8 @@ hugo serve
 ```
 
 De momento como no hemos agregado nada más que el tema, basta con que puedas ver que tu sitio tiene los estilos del tema.
+
+![test](https://user-images.githubusercontent.com/17634377/162357387-e4379c1f-28da-4013-a693-5bc1d369ba20.gif)
 
 ## 5) Agrega un nuevo post.
 
@@ -144,9 +148,51 @@ hugo new content/post/post_1.md
 Borra el contenido generado en este archivo y sustituyelo por:
 
 ```markdown
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras aliquet semper ante, a condimentum risus venenatis et. In accumsan elit mollis, malesuada nibh ut, vehicula tellus. Vestibulum ornare nulla et congue ullamcorper. Aenean tempus urna ex, nec sollicitudin neque vulputate in. Mauris sit amet massa molestie, laoreet felis at, pellentesque quam. Sed rutrum felis purus, varius egestas massa fermentum et. Phasellus viverra dictum suscipit. Pellentesque lobortis arcu eget sapien porttitor convallis. Nullam tempus bibendum ante non dignissim. Proin sit amet purus lorem. Aenean ornare ante eu faucibus sollicitudin. Sed scelerisque augue sed dui scelerisque, in consectetur arcu elementum. In eros metus, auctor ut consequat auctor, rutrum ut ipsum. Suspendisse sollicitudin non quam vestibulum convallis.
++++
+title = "Mi primer post"
+date = "2019-03-05"
+description = "Guide to emoji usage in Hugo"
++++
 
-Donec a iaculis turpis. Nam volutpat gravida justo, tristique lobortis nibh gravida id. Nam placerat ante sed pharetra condimentum. Fusce tempus nec sapien nec fermentum. Vivamus iaculis, magna non rutrum tincidunt, libero tellus dignissim erat, sed egestas mi erat vitae arcu. Aliquam tempor facilisis ipsum tristique aliquet. Vivamus eros odio, cursus nec velit et, ultricies aliquet nibh. Pellentesque tempor mauris id leo condimentum rhoncus quis laoreet leo. Nullam in tellus vel metus aliquet ullamcorper ac non quam. Vivamus elementum mauris quis purus ornare, ac elementum dui porta. Nulla lacinia eget enim id mattis. Morbi varius quam fermentum sollicitudin rutrum. Etiam consectetur ac mi vitae dapibus. Vivamus id diam porttitor, tincidunt arcu a, lobortis libero. Aliquam erat volutpat.
+## Mi primer post
+
+Emoji can be enabled in a Hugo project in a number of ways.
+<!--more-->
+The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
+
+To enable emoji globally, set `enableEmoji` to `true` in your site's [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
+
+<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
+<br>
+
+The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
+
+***
+
+**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
+
+{{< highlight html >}}
+.emoji {
+  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+}
+{{< /highlight >}}
+
+{{< css.inline >}}
+<style>
+.emojify {
+  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+  font-size: 2rem;
+  vertical-align: middle;
+}
+@media screen and (max-width:650px) {
+  .nowrap {
+    display: block;
+    margin: 25px 0;
+  }
+}
+</style>
+{{< /css.inline >}}
+
 ```
 
 Nuevamente vuelve a levantar tu proyecto con `hugo serve` y deberías poder ver tu nuevo post.
