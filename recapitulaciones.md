@@ -8,12 +8,9 @@ Hola explorer 💖 aquí vas a poder encontrar el resumen de las notas que tenga
 
 ![Ilustración_sin_título 4](https://user-images.githubusercontent.com/17634377/162116083-145da566-6298-49c7-81e3-d1f50141d251.png)
 
-### ¿Qué temas vimos?
-- ¿Qué es lo más importante para un desarrollad@r de software? Tu bienestar. Por eso es importante pulir tus habilidades y herramientas para hacer bien lo que tengas que hacer.
-- Herramientas básicas:
-  - Saber usar tu sistema operativo a través de la línea de comando. (Puedes revisar power shell, si usas windows puedes instalar el subsistema de linux, revisa los diferentes tipos de shell que hay: bash, zsh y fish.)
-  - Dedícale tiempo a tu Editor de Texto y conócelo muy bien. (Busca cursos especializados de tu elección favorita)
-  - Saber usar Git es muuuuuuuuuuuuuuuuuy importante.
+## Live 3 Semana 1 (Viernes 8 de Abril)
+
+![Live 3 Semana 1](https://user-images.githubusercontent.com/17634377/162554235-83c51f16-59fb-4543-b5c4-3f4ac4d796e7.PNG)
 
 ### Preguntas Frecuentes
 ¿Es necesario dominar git para el siguiente live?
@@ -48,6 +45,4 @@ Por ejemplo después de hacer el primer contenido del onboarding, ¿podrías exp
 - [Gource, herramienta de visualización para repos de git](https://gource.io/)
 - [Chocolatey: herramienta para instalar programas en windows desde la terminal](https://chocolatey.org/)
 
-## Live 3 Semana 1 (Viernes 8 de Abril)
 
-TODO
