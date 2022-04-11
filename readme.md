@@ -9,6 +9,15 @@
 - 👉 SEMANA 5: Lunes 2, Miércoles 4, y Viernes 6 de Mayo.
 - 👉 SEMANA 6: Lunes 9, Miércoles 11, y Viernes 13 de Mayo.
 
+# Pase de abordar 🎫
+
+- [Pase de Abordar Semana 1](https://user-images.githubusercontent.com/17634377/161416220-9c68ef3c-8e40-41f9-8963-556d73cb06f4.png)
+- [Pase de Abordar Semana 2](https://user-images.githubusercontent.com/17634377/162657031-9bc84e26-2bb3-4040-a66c-dc6ffc3d8522.PNG)
+- Pase de Abordar Semana 3 `NO DISPONIBLE`
+- Pase de Abordar Semana 4 `NO DISPONIBLE`
+- Pase de Abordar Semana 5 `NO DISPONIBLE`
+- Pase de Abordar Semana 6 `NO DISPONIBLE`
+
 # Lives 🏆
 
 - [🚀 Contenido Semana 1](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_1.md)
@@ -17,7 +26,7 @@
 |:---:|:---:|:---:|
 | 1 | Live 1 | [Link a la repetición del live 1](https://web.microsoftstream.com/video/2de8195c-44bc-40eb-b479-daa19f3bb9da) |
 | 1 | Live 2 | [Link a la repetición del live 2](https://web.microsoftstream.com/video/9aa05932-d8c8-4871-8610-3688d17c47b4) |
-| 1 | Live 3 | Próximo Live |
+| 1 | Live 3 | [Link a la repetición del live 3](https://web.microsoftstream.com/video/cc0875d3-f614-4752-a9a0-b2eee9a0b361)|
 
 # Contenido
 
@@ -29,7 +38,7 @@
 
 ## IMPORTANTE 🛑
 
-Todo el contenido (texto e ilustraciones) de **Launch X Node JS** es contenido totalmente original creado por Carlo Gilmar (el titular) para Launch X. Queda prohibida la reproducción y comercialización parcial o total sobre estas marcas sin la autorización explícita del titular. 
+Todo el contenido (texto e ilustraciones) de **Launch X Node JS** es contenido totalmente original creado por Carlo Gilmar (el titular) para Launch X. Queda prohibida la reproducción y comercialización parcial o total sobre estas marcas sin la autorización explícita del titular.
 
 ![banner](https://user-images.githubusercontent.com/17634377/155241139-a345385a-7528-4aab-ae9a-9ed094d39250.png)
 
@@ -45,18 +54,18 @@ En este repositorio encontrarás las referencias al material que estaremos desar
 ``` markdown
 **IMPORTANTE** 🚨
 
-ES NECESARIO QUE REVISES EL CONTENIDO DE CADA SEMANA Y ASISTAS A LAS SESIONES DE LIVES, O BIEN VEAS LA REPETICIÓN. 
+ES NECESARIO QUE REVISES EL CONTENIDO DE CADA SEMANA Y ASISTAS A LAS SESIONES DE LIVES, O BIEN VEAS LA REPETICIÓN.
 
 ESTE ACOMPAÑAMIENTO ESTA DISEÑADO PARA SER UN COMPLEMENTO ENTRE PRÁCTICA Y MENTORÍA. 🤝
 ```
 
 ## 🚀 ¿Qué haremos semana a semana?
-Revisaremos JUNTOS un conjunto de temas y prácticas para desarrollar entre explorers y mission commander. Encontrarás un link al contenido correspondiente a la semana de trabajo, ahí tendrás algunos puntos por desarrollar e investigar que te ayudarán a ir familiarizándote con Node JS. Pero descuida, no estarás solo, ya que este mismo contenido será desarrollado en los lives. 
+Revisaremos JUNTOS un conjunto de temas y prácticas para desarrollar entre explorers y mission commander. Encontrarás un link al contenido correspondiente a la semana de trabajo, ahí tendrás algunos puntos por desarrollar e investigar que te ayudarán a ir familiarizándote con Node JS. Pero descuida, no estarás solo, ya que este mismo contenido será desarrollado en los lives.
 
 ## Recapitulaciones: Issues
-Semana a semana tendremos nuestras sesiones de lives, todas las notas que vayan saliendo así como las referencias y preguntas frecuentes las estaremos guardando en un **ISSUE**. En la primera sesión de mentoría tu **mission commander 😁** abrirá un issue para toda la semana, él agregará las notas pertinentes relativas a las tres mentorías de la semana. 
+Semana a semana tendremos nuestras sesiones de lives, todas las notas que vayan saliendo así como las referencias y preguntas frecuentes las estaremos guardando en un **ISSUE**. En la primera sesión de mentoría tu **mission commander 😁** abrirá un issue para toda la semana, él agregará las notas pertinentes relativas a las tres mentorías de la semana.
 
-Al finalizar la semana podrás consultar este issue para ver todos los apuntes que salieron durante las llamadas y así puedas recapitular todo el contenido, o bien si te pierdes las sesiones en vivo, además de ver las grabaciones, podrás guiarte de estas notas.  
+Al finalizar la semana podrás consultar este issue para ver todos los apuntes que salieron durante las llamadas y así puedas recapitular todo el contenido, o bien si te pierdes las sesiones en vivo, además de ver las grabaciones, podrás guiarte de estas notas.
 
 ## 📞 ¿Qué haremos en las mentorías?
 Tomaremos como punto de partida la Weekly Mission para irla desarrollando paso a paso para que así tengas una guía de cómo resolverla y qué puntos tomar en cuenta. Hay mucho contenido por aprender, por lo que hemos diseñado que esta experiencia sea complementaria entre la práctica y las mentorías. Por cada Weekly Mission tendrás 3 mentorías. Es requisito indispensable entrar a cada una o ver la repetición. 🚨
@@ -71,11 +80,11 @@ El **workbook** será nuestra bitácora de viaje, en él vamos a guardar nuestra
 2. Dobla cada una por la mitad.
 3. Junta todas las hojas dobladas y crea un cuadernillo.
 4. Opcionalmente puedes descargar e imprimir la carátula que diseñé para ti: [DESCARGAR CARÁTULA](https://user-images.githubusercontent.com/17634377/156294681-a7d2feb4-d41e-464f-9dbf-0fbc781aa056.png)
-5. Es importante resaltar que deben ser 5 hojas. Si llegas a llenar todas las hojas disponibles, podrás crear otro workbook. 
+5. Es importante resaltar que deben ser 5 hojas. Si llegas a llenar todas las hojas disponibles, podrás crear otro workbook.
 
 ![Ilustración_sin_título 2](https://user-images.githubusercontent.com/17634377/161416140-571a4fa3-63d0-43e6-bd9d-342d8b9b5979.png)
 
-## ⁉️ Dudas y preguntas: GitHub Discussions  
+## ⁉️ Dudas y preguntas: GitHub Discussions
 
 Estaremos usando **GitHub Discussions** en este repositorio para escribir las dudas y preguntas que tengan a lo largo de nuestro camino.
 
