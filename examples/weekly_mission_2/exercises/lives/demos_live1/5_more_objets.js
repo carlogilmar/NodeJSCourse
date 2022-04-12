@@ -8,6 +8,11 @@ const explorer = {
   age: 27,
   country: 'Mexico',
   city: 'CDMX',
+  // los objetos pueden contener objetos anidados
+  address: {
+   zip_code: "03022",
+   address: "Dr. Vertiz 10"
+  },
   skills: [
     'JS',
     'Typescript',
@@ -41,3 +46,47 @@ explorer.getPersonInfo = function() {
 }
 
 console.log(explorer.getPersonInfo())
+
+// Podemos tener listas de objetos
+// Puedes explorar todos estos ejemplos en la consola de tu navegador y verlos de una forma interactiva
+
+const explorersInNode = [
+  {
+    id: 1,
+    name: "Explorer Name",
+    username: "explorer1",
+    stack: [
+      "python",
+      "html",
+      "css",
+      "js",
+      "node"
+    ]
+  },
+  {
+    id: 2,
+    name: "Explorer Name",
+    username: "explorer2",
+    stack: [
+      "python",
+      "html",
+      "css",
+      "js",
+      "node"
+    ]
+  },
+  {
+    id: 3,
+    name: "Explorer Name",
+    username: "explorer3",
+    stack: [
+      "python",
+      "html",
+      "css",
+      "js",
+      "node"
+    ]
+  }
+]
+
+
