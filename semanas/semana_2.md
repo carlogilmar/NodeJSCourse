@@ -74,6 +74,8 @@ NOTA: Te recomiendo ir investigando tus propias dudas e inquietudes, y también 
 
  Crea un nuevo script de javascript con cada ejemplo del archivo mencionado, esto te ayudará a aislar cada ejemplo y tener una mejor organización. Corre el código en tu computadora y explora qué hace cada línea. El código funciona, por lo que eres libre de experimentar. Este archivo tiene 5 ejemplos, por lo que deberás crear 5 scripts y probarlos cada uno en tu equipo.
 
+ Script: [0_objetos.js](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/examples/weekly_mission_2/exercises/examples/examples_0.js)
+ 
  Ejemplos que deberás desarrollar:
  1. Crear un objeto vacío
  2. Crear un objeto con propiedades
@@ -84,6 +86,8 @@ NOTA: Te recomiendo ir investigando tus propias dudas e inquietudes, y también 
 ## 2. Operadores
 
  En JS existen operadores que nos facilitarán hacer ciertas manipulaciones de estructuras de datos. Ve al ejemplo `1_operadores.js` y de igual forma crea un archivo de js para cada ejemplo para que lo pruebes por separado.
+ 
+ Script: [1_operadores.js](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/examples/weekly_mission_2/exercises/examples/examples_1.js)
 
  Ejemplos a desarrollar:
  1. Ejemplo For Each
@@ -107,6 +111,8 @@ NOTA: Te recomiendo ir investigando tus propias dudas e inquietudes, y también 
 
  Ve al ejemplo `2_clases_y_objetos.js` y de igual forma crea un archivo de js para cada ejemplo para que lo pruebes por separado.
 
+ Script: [2_clases_y_objetos.js](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/examples/weekly_mission_2/exercises/examples/examples_2.js)
+ 
  Ejemplos a desarrollar:
  1. Crear clase vacía
  2. Instanciar objetos de una clase
@@ -127,6 +133,8 @@ NOTA: Te recomiendo ir investigando tus propias dudas e inquietudes, y también 
  - `main.js` es nuestro archivo principal para ejecutar el código.
 
  Después de crear estos archivos, bastará con ejecutar el comando `node main.js`.
+ 
+ Directorio: [4_modularizacion_clases](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/tree/main/examples/weekly_mission_2/exercises/examples/examples4)
 
  ## 5. Unit Testing
 
@@ -136,6 +144,8 @@ NOTA: Te recomiendo ir investigando tus propias dudas e inquietudes, y también 
  - `pokemon.test.js` contiene una prueba de unidad para la clase Pokemon
 
  Después de crear estos archivos basta con ejecutar el comando `npm install` y después `npm test`.
+ 
+ Directorio: [5_unit_tests/](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/tree/main/examples/weekly_mission_2/exercises/examples/examples5)
 
  # Ejercicios
 
