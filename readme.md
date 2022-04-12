@@ -9,14 +9,10 @@
 - 👉 SEMANA 5: Lunes 2, Miércoles 4, y Viernes 6 de Mayo.
 - 👉 SEMANA 6: Lunes 9, Miércoles 11, y Viernes 13 de Mayo.
 
-# Pase de abordar 🎫
-
-- [Pase de Abordar Semana 1](https://user-images.githubusercontent.com/17634377/161416220-9c68ef3c-8e40-41f9-8963-556d73cb06f4.png)
-- [Pase de Abordar Semana 2](https://user-images.githubusercontent.com/17634377/162657031-9bc84e26-2bb3-4040-a66c-dc6ffc3d8522.PNG)
-- Pase de Abordar Semana 3 `NO DISPONIBLE`
-- Pase de Abordar Semana 4 `NO DISPONIBLE`
-- Pase de Abordar Semana 5 `NO DISPONIBLE`
-- Pase de Abordar Semana 6 `NO DISPONIBLE`
+| Semana 🗓 | Contenido 📕 | Pase de Abordar 🎟 |
+|:---:|:---:|:---:|
+|Semana 1|[Contenido Semana 1](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_1.md)| [Pase de Abordar Semana 1](https://user-images.githubusercontent.com/17634377/161416220-9c68ef3c-8e40-41f9-8963-556d73cb06f4.png) |
+|Semana 2|[Contenido Semana 2](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_2.md)| [Pase de Abordar Semana 2](https://user-images.githubusercontent.com/17634377/162657031-9bc84e26-2bb3-4040-a66c-dc6ffc3d8522.PNG) 
 
 # Lives 🏆
 
