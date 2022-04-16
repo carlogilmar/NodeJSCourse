@@ -1,6 +1,6 @@
 const TweetService = require('./../services/TweetService')
 
-class TwitterView{
+class TweetView{
 
   static createTweet(payload){
     return TweetService.create(payload.message, payload.username)
@@ -8,4 +8,4 @@ class TwitterView{
 
 }
 
-module.exports = TwitterView
+module.exports = TweetView
