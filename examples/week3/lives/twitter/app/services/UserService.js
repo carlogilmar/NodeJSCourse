@@ -24,12 +24,4 @@ class UserService {
 
 }
 
-console.log("User Service")
-const myUser1 = UserService.create(1, "carlogilmar", "Carlo")
-
-const myUser2 = UserService.create(1, "carlogilmar", "Carlo")
-const myUser3 = UserService.create(1, "carlogilmar", "Carlo")
-
-const users = [myUser1, myUser2, myUser3]
-console.log(UserService.getAllUsernames(users))
-console.log(UserService.getInfo(myUser1))
+module.exports = UserService

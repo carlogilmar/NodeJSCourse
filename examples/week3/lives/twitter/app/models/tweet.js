@@ -4,14 +4,6 @@ class Tweet {
     this.username = username
     this.usersRetweet = []
   }
-
-  set setUsersRetweet(usersRetweet){
-    this.usersRetweet = usersRetweet
-  }
-
-  get getUsersRetweet(){
-    return this.usersRetweet
-  }
 }
 
 module.exports = Tweet
