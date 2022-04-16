@@ -103,11 +103,7 @@ Una vez que la prueba de unidad pase correctamente estás autorizado a modificar
 
 # Tu turno 😁
 
-12. Agrega otra prueba en el mismo archivo de `spiderman.test.js`:
-
-![image](https://user-images.githubusercontent.com/17634377/163659458-d449e443-3489-48a1-b4c7-d47e2ad3dae4.png)
-
-13. Agrega el siguiente requerimiento a tu proyecto:
+12. Realiza el siguiente requerimiento en tu proyecto:
 
 ```
 Queremos usar un método que nos regrese la siguiente información: nombre y estudio al que pertenece el spiderman instanciado.
