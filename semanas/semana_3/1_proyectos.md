@@ -1,4 +1,16 @@
-# I Crear proyecto de JS
+# 1 Proyectos de JS
+
+A continuación te muestro cómo crear paso a paso un nuevo proyecto con JS, agregando una clase y una prueba de unidad.
+
+Considera que todo proyecto nuevo necesita de:
+1. Conjunto de folders y archivos para organizar nuestro código
+2. Versionamiento con git.
+3. Puede incluir dependencias.
+4. Todo proyecto lleva PRUEBAS DE UNIDAD. (No negociable)
+
+Veamos a continuación como crear un proyecto de js con todas estas características:
+
+# I Crear nuevo proyecto de JS
 
 > Crear proyectos desde cero es indispensable para saber por dónde comenzar nuestras propias apps. 
 
