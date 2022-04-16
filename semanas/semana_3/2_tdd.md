@@ -1,4 +1,4 @@
-# 2 Diseño de Software
+# ⭐️ 2 Diseño de Software
 
 Después de haber realizado la práctica #1, habrás entendido los pasos básicos para cualquier proyecto de software. Ahora te voy a mostrar una técnica de trabajo que te ayudará a diseñar tu app. Es importante recalcar que estos conceptos los puedes trasladar a cualquier otro ámbito del software, o lenguaje de programación.
 
@@ -30,7 +30,7 @@ describe("Test Suite Dummy Description", () => {
 })
 ```
 
-4. Verifica que esta prueba este fallando, como debería ser. 
+4. Verifica que esta prueba este fallando, como debería ser (`npm test test/spiderman.test.js`). 
 ![image](https://user-images.githubusercontent.com/17634377/163658513-717124e1-6b11-47e8-ba8a-b3d475fc8246.png)
 
 # III Test Driven Development by Martin Fowler
@@ -101,7 +101,7 @@ Recuerda: NO CONFÍES EN UNA PRUEBA QUE NO HAS VISTO FALLAR. Juega con tu prueba
 
 Una vez que la prueba de unidad pase correctamente estás autorizado a modificar tu archivo que estás probando, en este caso `spiderman.js`, para mejorarlo, a esto se le llama REFACTOR. Un refactor se aplica solo cuando tienes una prueba de respaldo, que te indicará que tus mejoras al código no rompen el comportamiento que necesitas.
 
-# FELICIDADES
+# FELICIDADES 🏆
 
 Has aprendido a realizar TDD:
 
@@ -115,12 +115,4 @@ Has aprendido a realizar TDD:
 
 TODO CÓDIGO DEBE ESTAR RESPALDADO POR PRUEBAS
 
-
-
-
-
-
-
-
-
-
+La próxima vez que programes algo, recuerda usar esta técnica para ir diseñando paso a paso, y recuerda que las pruebas son muy importantes.
