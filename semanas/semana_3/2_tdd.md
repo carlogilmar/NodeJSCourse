@@ -101,6 +101,27 @@ Recuerda: NO CONFÍES EN UNA PRUEBA QUE NO HAS VISTO FALLAR. Juega con tu prueba
 
 Una vez que la prueba de unidad pase correctamente estás autorizado a modificar tu archivo que estás probando, en este caso `spiderman.js`, para mejorarlo, a esto se le llama REFACTOR. Un refactor se aplica solo cuando tienes una prueba de respaldo, que te indicará que tus mejoras al código no rompen el comportamiento que necesitas.
 
+# Tu turno 😁
+
+12. Agrega otra prueba en el mismo archivo de `spiderman.test.js`:
+
+![image](https://user-images.githubusercontent.com/17634377/163659458-d449e443-3489-48a1-b4c7-d47e2ad3dae4.png)
+
+13. Agrega el siguiente requerimiento a tu proyecto:
+
+```
+Queremos usar un método que nos regrese la siguiente información: nombre y estudio al que pertenece el spiderman instanciado.
+
+Ejemplo:
+
+tomHolland.getInfo() // esto necesita regresar: "Hey, I'm Tom Holland from Marvel studio"
+```
+
+Aquí te dejo la prueba escrita, agrégala, y luego corre esta prueba, que falle, y agrega el código para que pase.
+![image](https://user-images.githubusercontent.com/17634377/163659603-b2447c0c-d8d5-45ed-87bb-8700804c3409.png)
+
+Solución: Agrega un nuevo método a tu clase spiderman llamado `getInfo()`, recuerda usar la palabra `return` para regresar un `string` con interpolación donde puedas agregar las propiedades `actor` y `studio` de la forma en que describió la prueba, no olvides usar  `this` para referirte al contexto del objeto y así acceder a sus atributos. Esta práctica hace uso de elementos ya vistos.
+
 # FELICIDADES 🏆
 
 Has aprendido a realizar TDD:
