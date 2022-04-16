@@ -1,0 +1,12 @@
+{
+  "name": "launchx_week3",
+  "version": "1.0.0",
+  "description": "Project to show examples about POO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "author": "carlogilmar",
+  "license": "ISC"
+}
