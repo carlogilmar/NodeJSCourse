@@ -12,5 +12,6 @@ class UserView{
       return {error: "Error, las propiedades del payload necesitan tener un valor válido"}
     }
   }
+}
 
-  module.exports = UserView
+module.exports = UserView
