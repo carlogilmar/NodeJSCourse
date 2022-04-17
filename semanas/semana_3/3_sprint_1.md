@@ -54,28 +54,6 @@ Vamos a desarrollar el primer requerimiento. Para ello usaremos el enfoque de TD
 
 ![image](https://user-images.githubusercontent.com/17634377/163697527-7908366a-57d5-40a8-933a-e3fac11b286f.png)
 
-```js
-const User = require('./../../app/models/user')
-
-describe("Unit Tests for User class", () => {
-
-	test('Create an User object', () => {
-    // Aquí invocas el código que vas a usar en tu app
-    const user = new User(1, "carlogilmar", "Carlo", "Bio", "dateCreated", "lastUpdated")
-
-    // Aquí validas los resultados de ese código
-    // Esta es una comparación que va a igualar el valor de la izquierda con el valor de la derecha (valor esperado)
-		expect(user.id).toBe(1)
-		expect(user.username).toBe("carlogilmar")
-		expect(user.name).toBe("Carlo")
-		expect(user.bio).toBe("Bio")
-		expect(user.dateCreated).toBe("dateCreated")
-		expect(user.lastUpdated).toBe("lastUpdated")
-	});
-
-})
-```
-
 2. Ejecuta la prueba `npm test test/models/user.test.js` y verifica que falle. Hasta este punto el archivo `user.js` debería estar vacío.
 
 ![image](https://user-images.githubusercontent.com/17634377/163697562-2881e71a-c188-4108-9c04-5c9cd3d6ed46.png)
@@ -83,21 +61,6 @@ describe("Unit Tests for User class", () => {
 3. Agrega en el archivo `user.js` la clase User, agrega el constructor para recibir los parámetros necesarios y agregar los atributos. Esto ya lo hemos realizado en los ejercicios anteriores. No olvides exportar tu clase. Se vale correr la misma prueba varias veces.
 
 ![image](https://user-images.githubusercontent.com/17634377/163697614-f062b387-c354-4373-b1e1-5917d6b3f01d.png)
-
-```js
-class User {
-  constructor(id, username, name, bio, dateCreated, lastUpdated){
-    this.id = id
-    this.username = username
-    this.name = name
-    this.bio = bio
-    this.dateCreated = dateCreated
-    this.lastUpdated = lastUpdated
-  }
-}
-
-module.exports = User
-```
 
 4. Corre la prueba de nuevo y verifica que pase. 
 
