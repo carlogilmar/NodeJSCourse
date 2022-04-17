@@ -1,4 +1,4 @@
-# ⭐️ 3. Sprint 2: Agregar servicios
+# ⭐️ 4. Sprint 2: Agregar servicios
 
 Si llegaste a este punto ya sabes:
 
