@@ -3,7 +3,7 @@
 # Calendario de Lives
 
 - ~~👉 SEMANA 1: Lunes 4, Miércoles 6, y Viernes 8 de Abril.~~
-- ~~👉 SEMANA 2: Lunes 11, Miércoles 13, y Viernes 15 de Abril.
+- ~~👉 SEMANA 2: Lunes 11, Miércoles 13, y Viernes 15 de Abril.~~
 - 👉 SEMANA 3: Lunes 18, Miércoles 20, y Jueves 21 de Abril.
 - 👉 SEMANA 4: Lunes 25, Miércoles 27, y Jueves 28 de Abril.
 - 👉 SEMANA 5: Lunes 2, Martes 3, y Miércoles 4 de Mayo. CAMBIO DE FECHAS
