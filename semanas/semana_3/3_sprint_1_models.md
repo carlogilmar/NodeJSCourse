@@ -1,4 +1,4 @@
-# Proyecto JS
+# ⭐️ 3. Sprint 1: Agregar modelos
 
 Bien explorer, vamos ahora a realizar un proyecto nuevo empezando desde los requerimientos:
 
