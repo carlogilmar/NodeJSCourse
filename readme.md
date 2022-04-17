@@ -17,7 +17,7 @@
 
 # Lives 🏆
 
-- [🚀 Contenido Semana 1](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_1.md)
+Recuerden que a veces hay problemas con los links de los videos, es necesario entrar a Microsoft Streams con su cuenta de LaunchX, también intenten entrar en una ventana de incógnito.
 
 | Semana 🗓 | Live | Grabación 📽 |
 |:---:|:---:|:---:|
