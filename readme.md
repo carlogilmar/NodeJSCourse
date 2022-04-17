@@ -13,6 +13,7 @@
 |:---:|:---:|:---:|
 |Semana 1|[Contenido Semana 1](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_1.md)| [Pase de Abordar Semana 1](https://user-images.githubusercontent.com/17634377/161416220-9c68ef3c-8e40-41f9-8963-556d73cb06f4.png) |
 |Semana 2|[Contenido Semana 2](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_2.md)| [Pase de Abordar Semana 2](https://user-images.githubusercontent.com/17634377/162657031-9bc84e26-2bb3-4040-a66c-dc6ffc3d8522.PNG) 
+|Semana 3|[Contenido Semana 3](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_3.md)| [Pase de Abordar Semana 2](https://user-images.githubusercontent.com/17634377/162657031-9bc84e26-2bb3-4040-a66c-dc6ffc3d8522.PNG) 
 
 # Lives 🏆
 
@@ -20,9 +21,12 @@
 
 | Semana 🗓 | Live | Grabación 📽 |
 |:---:|:---:|:---:|
-| 1 | Live 1 | [Link a la repetición del live 1](https://web.microsoftstream.com/video/2de8195c-44bc-40eb-b479-daa19f3bb9da) |
-| 1 | Live 2 | [Link a la repetición del live 2](https://web.microsoftstream.com/video/9aa05932-d8c8-4871-8610-3688d17c47b4) |
-| 1 | Live 3 | [Link a la repetición del live 3](https://web.microsoftstream.com/video/cc0875d3-f614-4752-a9a0-b2eee9a0b361)|
+| 1 | Live 1 | [Link a la repetición del 01 live 1 semana 1](https://web.microsoftstream.com/video/2de8195c-44bc-40eb-b479-daa19f3bb9da) |
+| 1 | Live 2 | [Link a la repetición del 02 live 2 semana 1](https://web.microsoftstream.com/video/9aa05932-d8c8-4871-8610-3688d17c47b4) |
+| 1 | Live 3 | [Link a la repetición del 03 live 3 semana 1](https://web.microsoftstream.com/video/cc0875d3-f614-4752-a9a0-b2eee9a0b361)|
+| 2 | Live 1 | [Link a la repetición del 04 live 1 semana 2](https://web.microsoftstream.com/video/1442112b-32f0-4b33-82e8-15c0f6bdfec2) |
+| 2 | Live 2 | [Link a la repetición del 05 live 2 semana 2](https://web.microsoftstream.com/video/dfac9fde-d43d-470c-839c-1af35993b7d6) |
+| 2 | Live 3 | [Link a la repetición del 06 live 3 semana 2](https://web.microsoftstream.com/video/4e39293b-e796-4471-9f24-355682c93bee)|
 
 # Contenido
 
