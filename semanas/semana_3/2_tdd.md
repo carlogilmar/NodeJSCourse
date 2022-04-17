@@ -1,4 +1,4 @@
-# ⭐️ 2 Diseño de Software
+# ⭐️ 2. Diseño de Software con TDD
 
 Después de haber realizado la práctica #1, habrás entendido los pasos básicos para cualquier proyecto de software. Ahora te voy a mostrar una técnica de trabajo que te ayudará a diseñar tu app. Es importante recalcar que estos conceptos los puedes trasladar a cualquier otro ámbito del software, o lenguaje de programación.
 
