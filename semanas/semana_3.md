@@ -60,3 +60,25 @@ Hasta ahora explorer hemos recorrido ya 2 semanas juntos en esta travesía, recu
 |5. Views | <a href="https://github.com/carlogilmar/MissionNodeJS/blob/main/semanas/semana_3/5_sprint_3_views.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA5-blue?style=for-the-badge"></a> |
 |6. Express Server | <a href="https://github.com/carlogilmar/MissionNodeJS/blob/main/semanas/semana_3/6_express_server.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA6-blue?style=for-the-badge"></a> |
 |7. Express API | <a href="https://github.com/carlogilmar/MissionNodeJS/blob/main/semanas/semana_3/7_express_api.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA7-blue?style=for-the-badge"></a> |
+
+# Entrega
+
+Cada práctica esta muy desarrollada paso a paso, de igual forma veremos este contenido en los lives. Te sugiero que por cada proyecto nuevo de JS que hagas, crees un nuevo repositorio. Puedes agregar en tu playbook un listado a todos los proyectos de esta semana con el siguiente formato:
+
+`weekly_mission3/readme.md`
+![image](https://user-images.githubusercontent.com/17634377/163725385-7c57b4cc-2da3-40da-b388-321803950ad7.png)
+
+Template: (Solo modifica los links a tus repos personales)
+```
+# Semana 3 
+
+Proyectos desarrollados en la semana 3:
+
+| Proyecto | Práctica | Link al repo |
+| ------------- |:-------------:| -----:|
+|`my_launchx_app`|1|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`spiderverse`|2|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`twitter`|3, 4, 5|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`express_basic`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`express_api`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+```
