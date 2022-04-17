@@ -1,4 +1,4 @@
-# 1 Proyectos de JS
+# ⭐️ 1. Creación de Proyectos en JS
 
 A continuación te muestro cómo crear paso a paso un nuevo proyecto con JS, agregando una clase y una prueba de unidad.
 
