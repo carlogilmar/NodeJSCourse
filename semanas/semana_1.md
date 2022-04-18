@@ -1,5 +1,7 @@
 <img width="1244" alt="image" src="https://user-images.githubusercontent.com/17634377/161413194-a3f91d2f-a6cd-4edd-9382-8ffd65d8ed7c.png">
 
+![Ilustración_sin_título 1](https://user-images.githubusercontent.com/17634377/163835782-5567ad50-ff7e-47da-b856-29cb32ba6f06.PNG)
+
 # Semana 1
 
 <details open>
