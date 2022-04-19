@@ -33,7 +33,8 @@ app.listen(port, () => {
 Hay muchos clientes para probar endpoints (puedes buscarlo como HTTP Clients). Te recomiendo descargar [Postman](https://www.postman.com/).
 
 1. Instala Postman.
-2. Descarga el siguiente archivo: [LaunchX.postman_collection.json.zip](https://github.com/carlogilmar/MissionNodeJS/files/8501142/LaunchX.postman_collection.json.zip)
+2. Descarga el siguiente archivo: [LaunchX.postman_collection.json (1).zip](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/files/8515523/LaunchX.postman_collection.json.1.zip)
+
 3. En Postman importa el archivo descargado. (Contiene todos los requests necesarios para esta práctica)
 
 ![test](https://user-images.githubusercontent.com/17634377/163704544-ae9ef6c4-3e25-4481-a483-3cfaefe27e5c.gif)
