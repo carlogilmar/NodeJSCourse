@@ -45,4 +45,10 @@ Por ejemplo después de hacer el primer contenido del onboarding, ¿podrías exp
 - [Gource, herramienta de visualización para repos de git](https://gource.io/)
 - [Chocolatey: herramienta para instalar programas en windows desde la terminal](https://chocolatey.org/)
 
+![image](https://user-images.githubusercontent.com/17634377/163923534-71f4b49f-2819-472c-b047-8593b51d1dd3.png)
+
+![Ilustración_sin_título 3](https://user-images.githubusercontent.com/17634377/163923555-59a07a3c-09d7-4644-a828-3a573f6801bf.png)
+
+![Ilustración_sin_título 2](https://user-images.githubusercontent.com/17634377/163923562-a3f908ff-da30-414a-859a-2cf47b4ed905.png)
+
 
