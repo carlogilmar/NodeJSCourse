@@ -47,8 +47,17 @@ Por ejemplo después de hacer el primer contenido del onboarding, ¿podrías exp
 
 ![image](https://user-images.githubusercontent.com/17634377/163923534-71f4b49f-2819-472c-b047-8593b51d1dd3.png)
 
+## Live 07 
+
 ![Ilustración_sin_título 3](https://user-images.githubusercontent.com/17634377/163923555-59a07a3c-09d7-4644-a828-3a573f6801bf.png)
 
 ![Ilustración_sin_título 2](https://user-images.githubusercontent.com/17634377/163923562-a3f908ff-da30-414a-859a-2cf47b4ed905.png)
+
+## Live 08
+
+![IMG_2461](https://user-images.githubusercontent.com/17634377/164375279-dfd24819-2e22-431b-8187-e79296d5b590.PNG)
+
+![IMG_2462](https://user-images.githubusercontent.com/17634377/164375287-162ed3ea-cfe9-4742-80e5-194f7f589802.PNG)
+
 
 
