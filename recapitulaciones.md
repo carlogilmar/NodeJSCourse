@@ -59,5 +59,8 @@ Por ejemplo después de hacer el primer contenido del onboarding, ¿podrías exp
 
 ![IMG_2462](https://user-images.githubusercontent.com/17634377/164375287-162ed3ea-cfe9-4742-80e5-194f7f589802.PNG)
 
+## Live 09
 
+![IMG_2463](https://user-images.githubusercontent.com/17634377/164607771-ac0fda4f-6507-434d-b0ee-e28590c7acf2.PNG)
 
+![IMG_2464](https://user-images.githubusercontent.com/17634377/164607776-54c88185-eac8-40ad-b078-7cae75fb94ce.PNG)
