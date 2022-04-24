@@ -21,3 +21,5 @@ Entrega:
   - Explica tu API: cómo consultarla, qué formato va a responder, incluye ejemplos etc.
 
 Tú decides qué hacer, cómo hacerlo, cómo diseñarlo. TODO.
+
+Importante: Toma nota de cuanto tiempo te lleva resolver esto.
