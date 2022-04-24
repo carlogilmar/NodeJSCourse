@@ -421,7 +421,7 @@ Este es un GitHub Action que automatizará la ejecución de las pruebas cada vez
 
 ![test](https://user-images.githubusercontent.com/17634377/164954596-85bed2ec-912f-48e5-a1a3-dd0d3b0d3cb7.gif)
 
-15. Arregla tu prueba de nuevo, que pase, hazle commit y súbela a tu repo en GitHub. Esta vez el GitHub Action deberá pasar también.
+15. Arregla tu prueba de nuevo, que pase, hazle commit y súbela a tu repo en GitHub. Esta vez el GitHub Action deberá pasar también. (No olvides borrar tu archivo `app.js` porque ya esta refactorizado.)
 
 # Linter
 
