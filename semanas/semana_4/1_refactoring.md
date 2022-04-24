@@ -423,3 +423,73 @@ Este es un GitHub Action que automatizará la ejecución de las pruebas cada vez
 
 15. Arregla tu prueba de nuevo, que pase, hazle commit y súbela a tu repo en GitHub. Esta vez el GitHub Action deberá pasar también.
 
+# Linter
+
+JS y cada lenguaje tienen herramientas para ayudarnos a cuidar la legibilidad en nuestro código, se les conoce como linters. 
+
+16. Instala ESLint en tu proyecto
+
+> npm install eslint --save-dev
+
+17. Ejecuta el comando para generar la configuración del linter:
+
+> npm init @eslint/config
+
+![test](https://user-images.githubusercontent.com/17634377/164954848-e68cbfe4-885f-4efc-b17e-dd06a4093ebf.gif)
+
+Al finalizar esto te creará un archivo `.eslintrc.js` con la configuración del linter.
+
+18. Agrega tu configuración, haz que tu archivo `.eslintrc.js` se parezca a este:
+
+```javascript
+module.exports = {
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es2021": true,
+        "jest": true
+    },
+    "extends": "eslint:recommended",
+    "parserOptions": {
+        "ecmaVersion": "latest"
+    },
+    "rules": {
+        indent: ["error", 4],
+        "linebreak-style": ["error", "unix"],
+        quotes: ["error", "double"],
+        semi: ["error", "always"]
+    }
+};
+```
+
+Los rules son reglas que podemos decirle al Linter que revise en nuestros archivos, nos ayudan a detectar mejoras de escritura.
+
+Es indispensable revisar la documentación de cada dependencia que usemos: https://eslint.org/docs/rules/
+
+19. Automatiza los comandos de eslint en tu package.json (recuerda que la ruta dentro de node_modules puede variar en windows)
+
+```
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest",
+    "linter": "node ./node_modules/eslint/bin/eslint.js .",
+    "linter-fix": "node ./node_modules/eslint/bin/eslint.js . --fix"
+  }
+```
+
+20. Ejecuta `npm run linter` para que el linter se ejecute y te diga todas las inconsistencias de escritura.
+
+![image](https://user-images.githubusercontent.com/17634377/164955012-23eaaf91-e437-4028-a5a6-f5a5455fcd89.png)
+
+21. El Linter arregla todos estos detalles por ti. Corre `npm run linter-fix` y tus archivos ahora quedarán con el mejor formato.
+
+Felicidades, cada vez le estás dando mejor calidad a tu trabajo. ¡Sigue así!
+
+# Guía de Estilo
+
+A partir de ahora usaremos el linter para darle formato a nuestro scripts, y seguiremos algunos estándares.
+- Ve al siguiente repo: https://github.com/airbnb/javascript
+- Haz un fork para que quede una copia para ti.
+- Utiliza este nuevo fork para leer el estilo estándar que se usa en Airbnb para escribir JS.
+- Toma esta guía de referencia para escribir JS.
+- Comparte tu experiencia.
+
