@@ -143,4 +143,8 @@ Felicidades, ya creaste el API que necesitamos.
 
 ¿Qué tan difícil fue conectar esto con la funcionalidad anterior?
 
-|---|---|---|
+No olvides:
+- Poner punto y coma al final de cada línea.
+- Si no lo hiciste, corre el lint para que te arregle eso.
+- Sube tu código a GitHub y verifica que el action corra tus pruebas y pasen.
+- Si tus pruebas automatizadas no pasan, arréglalo.
