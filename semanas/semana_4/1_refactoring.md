@@ -297,6 +297,8 @@ const explorersInNodeAndFizzBuzzTrick = explorersInNode.map((explorer) => assign
   
 </details>
 
+# Parte 1 Refactoring
+
 Muy bien, después de tomarte el tiempo de correr lo anterior, revisar cada punto y qué esta realizando, vamos a refactorizarlo juntos. Ahora vamos a tener que modularizar este script en Orientación a Objetos para darle una mejor estructura.
 
 Crearemos lo siguiente:
@@ -382,3 +384,42 @@ FizzbuzzService.applyValidationInExplorer(explorer5) // {name: "Explorer5", scor
 const explorer15 = {name: "Explorer15", score: 15}
 FizzbuzzService.applyValidationInExplorer(explorer15) // {name: "Explorer15", score: 15, trick: "FIZZBUZZ"}
 ```
+
+8. Muy bien, cuando hayas escrito las tres clases anteriores respectivamente, sube tu proyecto a algún repo de GitHub.
+9. No olvides que aquí ya DAMOS POR HECHO QUE TODO PROYECTO LLEVA PRUEBAS DE UNIDAD. (Para este punto infiero que ya agregaste jest y ya agregaste todas las pruebas a cada clase que hiciste.)
+
+# Automatización Pruebas GitHub Actions
+
+Si no tienes pruebas no estás autorizado para ninguna entrega ni para avanzar en el proyecto.
+
+10. Crea un nuevo archivo con la ruta: `.github/workflows/test.yml`
+11. Copia el siguiente contenido:
+
+```yml
+name: Run Tests in my project every push on GitHub
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run Jest
+      uses: stefanoeb/jest-action@1.0.3
+```
+
+Este es un GitHub Action que automatizará la ejecución de las pruebas cada vez que hagas PUSH a tu repositorio de GitHub.
+
+12. Haz commit y súbelo a tu repo en GitHub.
+13. Ve a la sección de `Actions` y verifica que exista un workflow en ejecución:
+![image](https://user-images.githubusercontent.com/17634377/164954537-0914d184-69ac-44af-8490-56419df4cf06.png)
+
+¡Felicidades! Ya tienes la automatización de pruebas de unidad en tu repo de GitHub. 😁
+
+14. Modifica una prueba en tu proyecto, y haz que truene. Hazle commit en ese estado y súbela a tu repo en GitHub. Ve a la sección de Actions y verifica que el workflow de pruebas este en ejecución. Espera a que terminé, deberá fallar por la prueba que agregaste, mirá e inspecciona el workflow:
+
+![test](https://user-images.githubusercontent.com/17634377/164954596-85bed2ec-912f-48e5-a1a3-dd0d3b0d3cb7.gif)
+
+15. Arregla tu prueba de nuevo, que pase, hazle commit y súbela a tu repo en GitHub. Esta vez el GitHub Action deberá pasar también.
+
