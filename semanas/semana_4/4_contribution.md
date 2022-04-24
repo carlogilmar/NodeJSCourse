@@ -4,8 +4,8 @@ Requerimiento:
 
 Crea un endpoint nuevo que regrese toda la lista de explorers filtrados por un stack.
 
-Ejemplo de url: `localhost:3000/v1/explorers/stack/javascript`.
-Response: Todos los explorers que tengan en `stack` el valor recibido en la url: `javascript`. (este valor debe ser dinámico)
+- Ejemplo de url: `localhost:3000/v1/explorers/stack/javascript`.
+- Response: Todos los explorers que tengan en `stack` el valor recibido en la url: `javascript`. (este valor debe ser dinámico)
 
 
 # Open Source
