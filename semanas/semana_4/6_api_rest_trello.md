@@ -1,4 +1,4 @@
-# 6 Reconocer API: Trello
+# 6 API REST Trello
 
 1. Abre una cuenta de Trello https://trello.com/
 2. Para jugar con el API Rest de Trello necesitamos un api key y un token que puedes solicitar aquí: https://trello.com/app-key
