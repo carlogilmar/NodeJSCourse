@@ -28,6 +28,25 @@ Recuerden que a veces hay problemas con los links de los videos, es necesario en
 | 2 | Live 2 | [Link a la repetición del 05 live 2 semana 2](https://web.microsoftstream.com/video/dfac9fde-d43d-470c-839c-1af35993b7d6) |
 | 2 | Live 3 | [Link a la repetición del 06 live 3 semana 2](https://web.microsoftstream.com/video/4e39293b-e796-4471-9f24-355682c93bee)|
 
+# Tengo dudas o problemas, ¿Dónde puedo preguntar y pedir ayuda? 🤔
+
+Ve al apartado de discussions, en la sección de Q&A, y abre un nuevo post con la siguiente estructura:
+
+```
+**🚀 WEEKLY MISSION**: 
+**📞 SESIÓN DE MENTORÍA**: 
+**🔗 URL REPO PARA VER TU CÓDIGO**: 
+
+
+## ⭐️ Descripción <!-- Describe tu pregunta o problemas -->
+
+## 📍 Pasos para replicar <!-- Si tienes algún error, describe aquí los pasos que realizaste para replicar tu error -->
+
+## 📸 Screenshots <!-- Incorpora imágenes o gifs de tu pregunta o problema si es que aplica --> 
+```
+
+Esta estructura te ayudará a redactar tu problema y así será más fácil entender qué esta pasando.
+
 # Contenido
 
 | Contenido | Link |
