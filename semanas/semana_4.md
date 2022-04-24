@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/17634377/164965085-99715858-f003-4362-b92c-46116189f930.png)
+<img width="1156" alt="image" src="https://user-images.githubusercontent.com/17634377/159152594-9975c662-260b-4260-bedb-95862023e00e.png">
 
 
 # 🚀 Objetivos
@@ -25,6 +26,8 @@
 - Seguir usando pruebas como algo natural al desarrollar software
 - Comenzar a desarrollar la habilidad de abstraer problemas y resolverlos
 - Construir herramientas y formas de aportar a un nuevo proyecto
+
+<img width="1165" alt="image" src="https://user-images.githubusercontent.com/17634377/159152590-8f2b2032-be88-45f1-a4f7-008195022b7a.png">
 
  # 🏆  Misiones a desarrollar
   
