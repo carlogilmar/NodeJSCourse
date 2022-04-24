@@ -40,6 +40,14 @@ Requerimientos:
 3. Crea un script llamado `explorers.json` y pega el snippet de abajo correspondiente.
 4. Lee todo el script, ejecútalo por partes, entiende qué hace. ¿Qué tanto puedes entender?
 
+Recuerda que este código realiza lo siguiente:
+- Obtener la lista de explorers que solo están en node.
+- Obtener la cantidad de explorers que están en node.
+- Obtener la lista de usuarios de github de los explorers que están en node.
+- Se necesitó crear una validación llamada FizzBuzz, si el explorer tiene un score que sea divisible entre 3 (revisa cómo hacer esto), deberá tener un campo trick que diga FIZZ, cualquier otro caso el valor de este nuevo campo deberá ser el score mismo. Esta validación nos sirve porque necesitamos aplicarla a la lista de todos los explorers y saber cuáles son FIZZ.
+- Después necesitamos una validación muy similar pero para cuando el score sea divisible entre 5, entonces el valor del nuevo campo trick será BUZZ, cualquier otro caso el valor será el score.
+- Pero después volvimos a necesitar otro caso para cuando el valor del score fuera divisible entre 3 y también entre 5, entonces el valor del campo trick debe ser FIZZBUZZ, de lo contrario tendrá el valor del score.
+
 <details>
 <summary> app.js & explorers.json </summary>
 
@@ -288,3 +296,89 @@ const explorersInNodeAndFizzBuzzTrick = explorersInNode.map((explorer) => assign
 ```  
   
 </details>
+
+Muy bien, después de tomarte el tiempo de correr lo anterior, revisar cada punto y qué esta realizando, vamos a refactorizarlo juntos. Ahora vamos a tener que modularizar este script en Orientación a Objetos para darle una mejor estructura.
+
+Crearemos lo siguiente:
+- `Reader`: en esta clase necesitaremos un método static para leer el archivo y obtener la información dado el nombre archivo.
+- `ExplorerService`: aquí vamos poner tres métodos static para obtener lo que se necesita realizar con la lista de explorers. En este service vamos a realizar todas las operaciones de filtrado y mapeo que se necesiten.
+- `FizzbuzzService`: aquí haremos un método static para aplicar la validación sobre un explorer y agregarle el campo que se necesita.
+
+```mermaid
+classDiagram
+    class Reader
+    Reader : +readJsonFile(filePath)
+```
+
+```mermaid        
+classDiagram
+    class ExplorerService
+    ExplorerService : +filterByMission(explorers, mission)
+    ExplorerService : +getAmountOfExplorersByMission(explorers, mission)
+    ExplorerService : +getExplorersUsernamesByMission(explorers, mission)
+```
+
+```mermaid        
+classDiagram
+    class FizzbuzzService
+    FizzbuzzService : +applyValidationInExplorer(explorers, mission)
+```
+
+5. Refactor de la lectura del archivo.
+ 
+Dado que se esta leyendo un archivo json para obtener la lista de explorers, necesitamos crear una clase para separa esta responsabilidad.
+
+- Crea el archivo y carpetas en `lib/utils/Reader.js`.
+- Dentro crea una clase llamada `Reader`.
+- Crea un método static llamado `readJsonFile` que reciba un path (este deberá ser el path al archivo a leer).
+- Dentro de esta función tendrás que guardar la lógica para leer el archivo y regresar la información (esta lógica ya está en el script inicial).
+- No olvides importar el módulo del filesystem `const fs = require("fs");`
+- Te dejó aquí cómo deberíamos poder usar tu nuevo servicio para leer un archivo json:
+
+```javascript
+const Reader = require("./lib/utils/Reader");
+const explorers = Reader.readJsonFile("explorers.json"); // esto regresa la lista de explorers del archivo
+```
+
+6. Explorer Service
+
+Vamos a refactorizar la lógica que se ejecuta sobre la lista de explorers.
+- Crea el archivo `lib/services/ExplorerService.js`.
+- Crea una clase `ExplorerService`.
+- Crea los métodos: `static filterByMission(explorers, mission)`, `static getAmountOfExplorersByMission(explorers, mission)`, `static getExplorersUsernamesByMission(explorers, mission)`.
+- No olvides exportar tu clase vía common JS.
+
+Te dejó un ejemplo de cómo vamos a utilizar tu nueva clase en el proyecto:
+```javascript
+// Clase anterior con la que obtenemos los explorers
+const Reader = require("./lib/utils/Reader");
+const explorers = Reader.readJsonFile("explorers.json");
+
+// Aplicación del ExplorerService sobre la lista de explorers
+ExplorerService.filterByMission(explorers, "node");
+ExplorerService.getAmountOfExplorersByMission(explorers, "node");
+ExplorerService.getExplorersUsernamesByMission(explorers, "node");
+```
+
+7. FizzBuzz Service
+
+Este service necesita mayor lógica por desarrollar, necesitas entender el script legado muy bien.
+
+- Crea un archivo `lib/services/FizzbuzzService.js`
+- Crea una clase `FizzbuzzService` y no olvides exportarla.
+- Crea un método `static applyValidationInExplorer(explorer)`, este método recibirá un explorer.
+
+Validaciones:
+``` javascript
+const explorer1 = {name: "Explorer1", score: 1}
+FizzbuzzService.applyValidationInExplorer(explorer1) // {name: "Explorer1", score: 1, trick: 1} 
+
+const explorer3 = {name: "Explorer3", score: 3}
+FizzbuzzService.applyValidationInExplorer(explorer3) // {name: "Explorer3", score: 3, trick: "FIZZ"}
+
+const explorer5 = {name: "Explorer5", score: 5}
+FizzbuzzService.applyValidationInExplorer(explorer5) // {name: "Explorer5", score: 5, trick: "BUZZ"}
+
+const explorer15 = {name: "Explorer15", score: 15}
+FizzbuzzService.applyValidationInExplorer(explorer15) // {name: "Explorer15", score: 15, trick: "FIZZBUZZ"}
+```
