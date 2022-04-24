@@ -4,12 +4,19 @@
 2. Para jugar con el API Rest de Trello necesitamos un api key y un token que puedes solicitar aquí: https://trello.com/app-key
   - Ve al portal
   - El primer valor que te mostrará es tu API KEY, guárdalo muy bien.
+  
   ![image](https://user-images.githubusercontent.com/17634377/164958156-ae24332b-8e4f-40ee-9f40-27a42b378882.png)
+  
   - Da click en el enlace a TOKEN 
+  
   ![image](https://user-images.githubusercontent.com/17634377/164958164-0ab4995b-3545-4c5d-9b99-01791c996bbe.png)
+  
   - Te pedirá autorizar tu petición:
+  
   ![image](https://user-images.githubusercontent.com/17634377/164958181-1879ad6b-7d3b-4ddd-a114-e300e5c57c15.png)
+  
   - Enseguida te mostrará el TOKEN:
+  
   ![image](https://user-images.githubusercontent.com/17634377/164958203-9d727c03-9b03-4592-b998-de0a805492a8.png)
 
 3. Guarda muy bien tu API KEY y TOKEN (estos valores son como tu usuario y password, ES INFORMACIÓN SENSIBLE).
