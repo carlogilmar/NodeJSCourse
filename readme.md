@@ -14,6 +14,7 @@
 |Semana 1|[Contenido Semana 1](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_1.md)| [Ejercicios Semana 1](examples/week1) | [Pase de Abordar Semana 1](https://user-images.githubusercontent.com/17634377/161416220-9c68ef3c-8e40-41f9-8963-556d73cb06f4.png) |
 |Semana 2|[Contenido Semana 2](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_2.md)| [Ejercicios Semana 2](examples/week2) | [Pase de Abordar Semana 2](https://user-images.githubusercontent.com/17634377/162657031-9bc84e26-2bb3-4040-a66c-dc6ffc3d8522.PNG) 
 |Semana 3|[Contenido Semana 3](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_3.md) | [Ejercicios Semana 3](examples/week3) | [Pase de Abordar Semana 3](https://user-images.githubusercontent.com/17634377/163835009-edbe80aa-55ac-45e3-8c89-ae846db25b9d.png)|  
+|Semana 4|[Contenido Semana 4](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_3.md) |  | [Pase de Abordar Semana 4](https://user-images.githubusercontent.com/17634377/163835009-edbe80aa-55ac-45e3-8c89-ae846db25b9d.png)|  
 
 # Lives 🏆
 
@@ -27,6 +28,9 @@ Recuerden que a veces hay problemas con los links de los videos, es necesario en
 | 2 | Live 1 | [Link a la repetición del 04 live 1 semana 2](https://web.microsoftstream.com/video/1442112b-32f0-4b33-82e8-15c0f6bdfec2) |
 | 2 | Live 2 | [Link a la repetición del 05 live 2 semana 2](https://web.microsoftstream.com/video/dfac9fde-d43d-470c-839c-1af35993b7d6) |
 | 2 | Live 3 | [Link a la repetición del 06 live 3 semana 2](https://web.microsoftstream.com/video/4e39293b-e796-4471-9f24-355682c93bee)|
+| 3 | Live 1 | [Link a la repetición del 07 live 1 semana 3](https://web.microsoftstream.com/video/3ae24ff6-ac9c-40a0-8af5-7e4533c0b22e)|
+| 3 | Live 2 | [Link a la repetición del 08 live 2 semana 3](https://web.microsoftstream.com/video/4315b60c-264a-4a86-993b-a58d4f72d364)|
+| 3 | Live 3 | [Link a la repetición del 09 live 3 semana 3](https://web.microsoftstream.com/video/67d66353-d967-4878-9c32-fbe8fd7f60e8)|
 
 # Tengo dudas o problemas, ¿Dónde puedo preguntar y pedir ayuda? 🤔
 
