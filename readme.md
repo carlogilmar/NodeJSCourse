@@ -14,7 +14,7 @@
 |Semana 1|[Contenido Semana 1](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_1.md)| [Ejercicios Semana 1](examples/week1) | [Pase de Abordar Semana 1](https://user-images.githubusercontent.com/17634377/161416220-9c68ef3c-8e40-41f9-8963-556d73cb06f4.png) |
 |Semana 2|[Contenido Semana 2](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_2.md)| [Ejercicios Semana 2](examples/week2) | [Pase de Abordar Semana 2](https://user-images.githubusercontent.com/17634377/162657031-9bc84e26-2bb3-4040-a66c-dc6ffc3d8522.PNG) 
 |Semana 3|[Contenido Semana 3](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_3.md) | [Ejercicios Semana 3](examples/week3) | [Pase de Abordar Semana 3](https://user-images.githubusercontent.com/17634377/163835009-edbe80aa-55ac-45e3-8c89-ae846db25b9d.png)|  
-|Semana 4|[Contenido Semana 4](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/week4/semanas/semana_4.md) |  | [Pase de Abordar Semana 4](https://user-images.githubusercontent.com/17634377/165124418-8396bcb9-9845-494d-a362-7be3db99b748.png)|  
+|Semana 4|[Contenido Semana 4](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_4.md) |  | [Pase de Abordar Semana 4](https://user-images.githubusercontent.com/17634377/165124418-8396bcb9-9845-494d-a362-7be3db99b748.png)|  
 
 # Lives 🏆
 
