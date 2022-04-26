@@ -20,6 +20,9 @@
   ![image](https://user-images.githubusercontent.com/17634377/164958203-9d727c03-9b03-4592-b998-de0a805492a8.png)
 
 3. Guarda muy bien tu API KEY y TOKEN (estos valores son como tu usuario y password, ES INFORMACIÓN SENSIBLE).
+
+![image](https://user-images.githubusercontent.com/17634377/165356364-0fa837e2-2b75-46b1-9bc5-9d009d869439.png)
+
 4. Visita la documentación del Api Rest de Trello https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-group-boards
    - Busca cómo crear un nuevo board.
    - Busca cómo obtener la información de un board a partir de su ID
