@@ -29,7 +29,8 @@
    - Busca cómo obtener la lista de cards de un board
    - Busca cómo crear una nueva card en un board
 
-5. Descarga el siguiente archivo de postman e importalo en tu postman: [Trello API LaunchX.postman_collection.json.zip](https://github.com/carlogilmar/MissionNodeJS/files/8549075/Trello.API.LaunchX.postman_collection.json.zip)
+5. Descarga el siguiente archivo de postman e importalo en tu postman: [ ACTUALIZADO Trello API LaunchX.postman_collection.json.zip](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/files/8585319/Trello.API.LaunchX.postman_collection.json.zip)
+
 
 # Juega con el Api de Trello con las peticiones armadas de postman: Crea un tablero.
 
