@@ -23,3 +23,5 @@ Entrega:
 Tú decides qué hacer, cómo hacerlo, cómo diseñarlo. TODO.
 
 Importante: Toma nota de cuanto tiempo te lleva resolver esto.
+
+![image](https://user-images.githubusercontent.com/17634377/165870375-fe5a730a-eada-4abe-ac9c-42334e003b18.png)
