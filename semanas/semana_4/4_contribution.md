@@ -23,5 +23,6 @@ Criterios de aceptación para enviar tu PR:
 - Código con guía de estilo (no olvides correr tu linter)
 - Pruebas de unidad
 - Al enviar tu PR, automáticamente se correrán las pruebas de unidad, si estás no pasan, tu PR no podrá ser considerado.
+- NO VERSIONAR PACKAGE.JSON 
 
 Al enviar tu PR habrás concluido esta actividad. No es necesario resolver conflictos o que sea aceptado, basta con enviarlo.
