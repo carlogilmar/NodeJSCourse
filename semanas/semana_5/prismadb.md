@@ -101,8 +101,100 @@ const prisma = new PrismaClient();
 })();
 ```
 
+Lee el archivo anterior, agrega algunos registros más, al correr el archivo estos registros se insertarán en la db.
+
 10. Corre el archivo anterior: `node prisma/seed.js`. Verifica que ahora tu tabla tenga algunos registros.
 
 ![feeshipping1](https://user-images.githubusercontent.com/17634377/166177664-612477c5-11fc-4634-a631-c8eca368e5f7.gif)
 
 # Parte 2: CRUD 
+
+1. Crea un archivo llamado `server.js`, crea un server básico agregando el cliente de Prisma, copia el siguiente ejemplo:
+
+`server.js`
+``` javascript
+const express = require('express');
+const app = express();
+app.use(express.json());
+const port = process.env.PORT || 3000;
+
+// Require para usar Prisma
+const { PrismaClient } = require('@prisma/client');
+const prisma = new PrismaClient();
+
+app.get('/', (req, res) => {
+  res.json({message: 'alive'});
+});
+
+app.listen(port, () => {
+  console.log(`Listening to requests on port ${port}`);
+});
+```
+
+2. Corre el server `node server.js` y accede a `localhost:3000`, verifica que recibas un mensaje.
+
+# API CRUD
+
+3. Agrega un nuevo endpoint GET en tu `server.js` que regrese todos los explorers. Prúebalo en la url: `localhost:3000/explorers`
+
+```javascript
+app.get('/explorers', async (req, res) => {
+  const allExplorers =  await prisma.explorer.findMany({});
+  res.json({data: allExplorers});
+});
+```
+
+4. Agrega un nuevo endpoint GET que te regrese el explorer al enviar un ID por query params. Prúebalo en la url: `localhost:3000/explorers/1`
+
+```javascript
+app.get('/explorers/:id', async (req, res) => {
+  const id = req.params.id;
+  const explorer = await prisma.explorer.findUnique({where: {id: parseInt(id)}});
+  res.json({data: explorer});
+});
+```
+
+5. Crea un nuevo endpoint POST con el que vas a poder crear nuevos explorers. 
+
+```javascript
+app.post('/explorers', async (req, res) => {
+  const explorer = {
+    name: req.body.name,
+    username: req.body.username,
+    mission: req.body.mission
+   };
+  const message = 'Explorer creado.';
+  await prisma.explorer.create({data: explorer});
+  return res.json({message});
+});
+```
+
+6. Crea un nuevo endpoint PUT, en el cuál recibirás el ID del explorer a actualizar, y en el cuerpo del request los campos a actualizar.
+
+```javascript
+app.put('/explorers/:id', async (req, res) => {
+	const id = parseInt(req.params.id);
+
+	await prisma.explorer.update({
+		where: {
+			id: id
+		},
+		data: {
+			mission: req.body.mission
+		}
+	})
+
+	return res.json({message: "Actualizado correctamente"});
+});
+```
+
+7. Crea un nuevo endpoint DELETE para eliminar un explorer dado un ID por query params.
+
+```javascript
+app.delete('/explorers/:id', async (req, res) => {
+	const id = parseInt(req.params.id);
+	await prisma.explorer.delete({where: {id: id}});
+	return res.json({message: "Eliminado correctamente"});
+});
+```
+
