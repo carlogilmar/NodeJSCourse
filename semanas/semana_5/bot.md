@@ -63,6 +63,7 @@ Verifica:
 - Aquí agrega el token que te dió el Bot Father: `const token = "";`
 - Verifica que este bien la ruta de tu ExplorerController
 - Lee y entiende qué se realiza en la última función.
+- Recuerda no versionar tu token.
 
 6. Corre tu nuevo bot: `npm run bot`
 7. Ve a tu chat con el nuevo bot y cada que envíes un número deberá darte la validación del fizzbuzz. Cualquier otro valor te madnará un mensaje de error.
