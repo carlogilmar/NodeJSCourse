@@ -169,7 +169,7 @@ app.post('/explorers', async (req, res) => {
 });
 ```
 
-6. Crea un nuevo endpoint PUT, en el cuál recibirás el ID del explorer a actualizar, y en el cuerpo del request los campos a actualizar.
+6. Crea un nuevo endpoint PUT, en el cuál recibirás el ID del explorer a actualizar, y en el cuerpo del request los campos a actualizar, para este caso solo haremos el update del campo mission.
 
 ```javascript
 app.put('/explorers/:id', async (req, res) => {
@@ -197,4 +197,10 @@ app.delete('/explorers/:id', async (req, res) => {
 	return res.json({message: "Eliminado correctamente"});
 });
 ```
+
+La url para tu API será `localhost:3000/explorers`. Aquí podrás acceder por GET, POST, PUT, y DELETE. 
+
+Puedes descargar la colección de Postman para probar todos estos endpoints: [ExplorersAPI.json.zip](https://github.com/carlogilmar/my_launchx_blog/files/8600585/ExplorersAPI.json.zip)
+
+8. Prueba tu api, corrobora que los cambios se apliquen en tu db. Crea, lee, actualiza y elimina registros.
 
