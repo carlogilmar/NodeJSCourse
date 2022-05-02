@@ -5,8 +5,8 @@
 - ~~👉 SEMANA 1: Lunes 4, Miércoles 6, y Viernes 8 de Abril.~~
 - ~~👉 SEMANA 2: Lunes 11, Miércoles 13, y Viernes 15 de Abril.~~
 - ~~👉 SEMANA 3: Lunes 18, Miércoles 20, y Jueves 21 de Abril.~~
-- 👉 SEMANA 4: Lunes 25, Miércoles 27, y Jueves 28 de Abril. NUEVO CAMBIO DE HORARIO: 7 PM 
-- 👉 SEMANA 5: Lunes 2, Martes 3, y Miércoles 4 de Mayo. CAMBIO DE FECHAS PENDIENTE POR DEFINIR
+- ~~👉 SEMANA 4: Lunes 25, Miércoles 27, y Jueves 28 de Abril. NUEVO CAMBIO DE HORARIO: 7 PM ~~
+- 👉 SEMANA 5: Martes 3, y Miércoles 4 de Mayo, 7 PM. 
 - 👉 SEMANA 6: Lunes 9, Miércoles 11, y Jueves 12 de Mayo.
 
 | Semana 🗓 | Contenido 📕 | Ejercicios de Referencia 🧪| Pase de Abordar 🎟 |
@@ -14,7 +14,8 @@
 |Semana 1|[Contenido Semana 1](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_1.md)| [Ejercicios Semana 1](examples/week1) | [Pase de Abordar Semana 1](https://user-images.githubusercontent.com/17634377/161416220-9c68ef3c-8e40-41f9-8963-556d73cb06f4.png) |
 |Semana 2|[Contenido Semana 2](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_2.md)| [Ejercicios Semana 2](examples/week2) | [Pase de Abordar Semana 2](https://user-images.githubusercontent.com/17634377/162657031-9bc84e26-2bb3-4040-a66c-dc6ffc3d8522.PNG) 
 |Semana 3|[Contenido Semana 3](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_3.md) | [Ejercicios Semana 3](examples/week3) | [Pase de Abordar Semana 3](https://user-images.githubusercontent.com/17634377/163835009-edbe80aa-55ac-45e3-8c89-ae846db25b9d.png)|  
-|Semana 4|[Contenido Semana 4](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_4.md) |  | [Pase de Abordar Semana 4](https://user-images.githubusercontent.com/17634377/165124418-8396bcb9-9845-494d-a362-7be3db99b748.png)|  
+|Semana 4|[Contenido Semana 4](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_4.md) |  | [Pase de Abordar Semana 4](https://user-images.githubusercontent.com/17634377/165124418-8396bcb9-9845-494d-a362-7be3db99b748.png)| 
+|Semana 5|[Contenido Semana 5](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_4.md) |  | [Pase de Abordar Semana 5](https://user-images.githubusercontent.com/17634377/166196666-4c5aa53d-f481-4269-8e39-af17cf12b633.png)| 
 
 # Lives 🏆
 
@@ -31,6 +32,9 @@ Recuerden que a veces hay problemas con los links de los videos, es necesario en
 | 3 | Live 1 | [Link a la repetición del 07 live 1 semana 3](https://web.microsoftstream.com/video/3ae24ff6-ac9c-40a0-8af5-7e4533c0b22e)|
 | 3 | Live 2 | [Link a la repetición del 08 live 2 semana 3](https://web.microsoftstream.com/video/4315b60c-264a-4a86-993b-a58d4f72d364)|
 | 3 | Live 3 | [Link a la repetición del 09 live 3 semana 3](https://web.microsoftstream.com/video/67d66353-d967-4878-9c32-fbe8fd7f60e8)|
+| 4 | Live 1 | [Link a la repetición del 10 live 1 semana 4](https://web.microsoftstream.com/video/170f3d48-304d-47e9-a117-d2a76b35e802)|
+| 4 | Live 2 | [Link a la repetición del 11 live 2 semana 4](https://web.microsoftstream.com/video/5dd06450-2f88-43fd-81cf-8ecca773d6cf)|
+| 4 | Live 3 | [Link a la repetición del 12 live 3 semana 4](https://web.microsoftstream.com/video/d1f71c56-4b82-401a-9c63-d050b40a16a1)|
 
 # Tengo dudas o problemas, ¿Dónde puedo preguntar y pedir ayuda? 🤔
 
