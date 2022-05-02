@@ -204,3 +204,23 @@ Puedes descargar la colección de Postman para probar todos estos endpoints: [Ex
 
 8. Prueba tu api, corrobora que los cambios se apliquen en tu db. Crea, lee, actualiza y elimina registros.
 
+
+# Agrega una nueva tabla y crea el API
+
+| Campo | Tipo de Dato |
+|---|---|
+| id | Integer (autogenerado) |
+| name | String |
+| lang | String |
+| missionCommander | String |
+| enrollments | Integer |
+| hasCertification | Boolean |
+
+1. Crea el siguiente modelo en el `schema.prisma`. Crea inmediatamente el migration para que se apliquen estos cambios.
+2. Agrega un par de registros en el `seed.js`. Verifica en tu DB los nuevos registros.
+3. Crea un CRUD para esta tabla en el archivo `server.js`:
+  - Crea un endpoint GET para regresar todos los registros.
+  - Crea un endpoint GET para regresar el registro dado el ID
+  - Crea un endpoint POST para crear un nuevo registro
+  - Crea un endpoint PUT para actualizar un registro
+  - Crea un endpoint DELETE para eliminar un registro
