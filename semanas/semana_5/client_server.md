@@ -38,3 +38,21 @@ Esta es una app de Vue JS ya creada para conectarse a tu api.
 6. Este diagrama te servirá más adelante para comenzar a agregar nuevos features en este proyecto. Esta actividad tiene por propósito leer una app legada de frontend.
 7. Incluye estos diagramas en tu fork. 
 
+# Nuevo Feature Fullstack
+
+`missionCommander`
+| Campo | Tipo |
+|---|---|
+| id | Integer (autogenerado) |
+| name | String |
+| username | String |
+| mainStack | String |
+| currentEnrollment | Boolean |
+| hasAzureCertification | Boolean |
+
+1. Crea la tabla nueva anterior. Agrega unos registros por medio de los seeds.
+2. Crea un CRUD expuesto en un API en el `server.js` (métodos GET, POST, PUT, DELETE, recuerda que el método GET deberá tener 2 endpoints, uno para traer todos los registros y otro para consultar solo el registro por ID).
+3. En la pantalla inicial del front, consulta todos los registros en esta tabla y muéstralos. Tú decides el diseño.
+4. Agrega la posibilidad de agregar uno nuevo.
+5. Agrega la posibilidad de editar el `mainStack`.
+6. Agrega la posibilidad de eliminar el registro.
