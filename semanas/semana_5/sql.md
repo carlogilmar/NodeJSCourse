@@ -8,9 +8,6 @@
 4. Tendrás que hacer login del usuario que creaste en tu instalación.
 5. Una vez después del login, ejecuta el comando `\l` para ver todas las bases de datos locales.
 6. Crea tu primera base de datos: `create database launchx_nodejs;` (no olvides el punto y coma al final)
-
-![test](https://user-images.githubusercontent.com/17634377/166172584-55139cbb-484d-4f17-99af-39cfb162e903.gif)
-
 7. Seleciona la base de datos creada: `use launchx_java;`
 8. Lista las tablas creadas: `\dt`
 9. Crea una nueva tabla: `CREATE TABLE explorers(id bigserial, username varchar(50);`
@@ -34,6 +31,8 @@ insert into explorers(id, name) values (5, 'Explorer5');
 14. Lee solo los nombres de todos los registros de la db: `select e.name from explorers e;`
 15. Actualiza el valor del primer nombre del explorer con ID 1: `update explorers e set name = 'Explorer 1 Upd' where e.id = 1;`
 16. Elimina el explorer con ID 1: `delete from explorers e where e.id = 1;`
+
+
 
 Objetivos de esta práctica:
 - Instalar Postgresql
