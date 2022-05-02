@@ -24,32 +24,12 @@
   
 | Misión | Link |
 |:---:|:---:|
-|1. Refactoring | <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_4/1_refactoring_fizzbuzz_parte1.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA1-blue?style=for-the-badge"></a> |
-|2. API Fizzbuzz | <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_4/2_api_fizzbuzz_parte2.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA2-blue?style=for-the-badge"></a> |
-|3. Nuevo Feature Fizzbuzz | <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_4/3_nuevo_feature_fizzbuzz_parte3.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA3-blue?style=for-the-badge"></a> |
-|4. Contribution Open Source | <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_4/4_contribution.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA4-blue?style=for-the-badge"></a> |
-|5. Code Challenge | <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_4/5_code_challenge.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA5-blue?style=for-the-badge"></a> |
-|6. Api Rest Trello | <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_4/6_api_rest_trello.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA6-blue?style=for-the-badge"></a> |
-|7. Trello Js | <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_4/7_trello_js.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA7-blue?style=for-the-badge"></a> |
+|1. Bot Telegram | <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_5/bot.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA1-blue?style=for-the-badge"></a> |
+|2. SQL | <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_5/sql.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA2-blue?style=for-the-badge"></a> |
+|3. Prisma DB | <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_5/prismadb.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA3-blue?style=for-the-badge"></a> |
+|4. Cliente Servidor | <a href="https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_5/client_server.md" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA4-blue?style=for-the-badge"></a> |
 
 # Entrega
 
-Cada práctica esta muy desarrollada paso a paso, de igual forma veremos este contenido en los lives. Te sugiero que por cada proyecto nuevo de JS que hagas, crees un nuevo repositorio. Puedes agregar en tu playbook un listado a todos los proyectos de esta semana con el siguiente formato:
-
-`weekly_mission4/readme.md`
-
-Template: (Solo modifica los links a tus repos personales)
-```
-# Semana 4 
-
-Proyectos desarrollados en la semana 3:
-
-| Proyecto | Práctica | Link al repo |
-| ------------- |:-------------:| -----:|
-|`fizzbuzz`|1|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
-|`PR`|2|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
-|`Code Challenge`|3, 4, 5|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
-|`Trello`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
-|`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
-```
+Favor de incluir los urls de los repos que vayan creando en su playbook.
 
