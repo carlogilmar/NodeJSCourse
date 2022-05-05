@@ -71,4 +71,4 @@ Verifica:
 ![feeshipping1](https://user-images.githubusercontent.com/17634377/166179509-21ba2a57-e6a4-4b74-a36e-73b0597702da.gif)
 
 8. Refactoriza el snippet de código anterior y envíalo al ExplorerController.
-9. Valida que al enviar la palabra "node" o "java", regreses al bot la lista de nombres de los explorers de esa misión. Recuerda que el bot solo puede recibir un string, tendrás que armar ese string con los nombres. No olvides agregar tus pruebas.
+9. Valida que al enviar la palabra "node" o "java", regreses al bot la lista de nombres de los explorers de esa misión. Recuerda que el bot solo puede recibir un string, tendrás que armar ese string con los nombres. No olvides agregar una prueba para generar ese string. No es necesario que hagas pruebas de la funcionalidad del bot.
