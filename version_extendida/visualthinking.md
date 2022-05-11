@@ -1,7 +1,6 @@
 ![image](https://user-images.githubusercontent.com/17634377/167760291-8fee2f6f-b382-4764-bb1d-ede5cbddeac2.png)
 
-
-Taller de Visual Thinking
+# Taller de Visual Thinking
 
 - Bloque 1 Dibujo
   - Tramas
@@ -48,7 +47,6 @@ Taller de Visual Thinking
 - Reprentación iconográfica
 - Dibuja la canción
 - Dibuja tu trayectoria en LaunchX (Mapa de navegación)
-
 - Bloque 3 Repo
   - [Banking Portal](https://github.com/pluralsight-projects/NodeExpress-BankingPortal/tree/module5-solution)
 
