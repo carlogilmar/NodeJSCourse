@@ -50,3 +50,6 @@
 - Bloque 3 Repo
   - [Banking Portal](https://github.com/pluralsight-projects/NodeExpress-BankingPortal/tree/module5-solution)
 
+Nota: Clonar el repo y cambiarse de branch `git checkout module5-solution`
+
+![image](https://user-images.githubusercontent.com/17634377/167974154-6b307df6-95eb-4735-af25-f10306962707.png)
