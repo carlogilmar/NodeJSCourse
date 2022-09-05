@@ -8,6 +8,7 @@
 |Semana 3|[Contenido Semana 3](https://github.com/carlogilmar/NodeJSCourse/blob/main/semanas/semana_3.md)|
 |Semana 4|[Contenido Semana 4](https://github.com/carlogilmar/NodeJSCourse/blob/main/semanas/semana_4.md)|
 |Semana 5|[Contenido Semana 5](https://github.com/carlogilmar/NodeJSCourse/blob/main/semanas/semana_5.md)|
+|Registros Gráficos 🎨| [Ver Explicaciones Visuales](https://github.com/carlogilmar/NodeJSCourse/blob/main/recapitulaciones.md)|
 
 ## IMPORTANTE 🛑
 
